@@ -13,8 +13,8 @@ const Navbar = () => {
   return (    
     <nav className="bg-zinc-900/80 backdrop-blur-md border-b border-zinc-800 sticky top-0 z-40">    
       <div className="max-w-5xl mx-auto flex items-center justify-between px-6 py-4">    
-        <div className="flex items-center gap-2">
-          <span className="text-emerald-500 text-xl">⚡</span>
+        <div className="flex items-center gap-3">
+          <img src="/TaskFlow_Logo.png" alt="TaskFlow Logo" className="h-8 w-8 object-contain" />
           <span className="text-zinc-100 font-bold text-xl tracking-tight">TaskFlow</span>    
         </div>
         <div className="flex items-center gap-5">    

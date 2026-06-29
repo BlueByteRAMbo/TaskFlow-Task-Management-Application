@@ -7,7 +7,7 @@ const Landing = () => {
       
       <div className="z-10 flex flex-col items-center text-center max-w-2xl">
         <div className="mb-6 inline-flex items-center justify-center p-3 bg-zinc-900/50 border border-zinc-800 rounded-2xl shadow-sm">
-          <span className="text-3xl">⚡</span>
+          <img src="/TaskFlow_Logo.png" alt="TaskFlow Logo" className="w-16 h-16 object-contain drop-shadow-[0_0_15px_rgba(5,150,105,0.3)]" />
         </div>
         <h1 className="text-5xl sm:text-7xl font-extrabold mb-6 tracking-tight text-zinc-100">
           TaskFlow

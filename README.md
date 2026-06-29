@@ -1,12 +1,12 @@
 # TaskFlow: Full-Stack Task Manager App
 
-![TaskFlow Header](https://via.placeholder.com/1200x400/09090b/10b981?text=TaskFlow+-+MERN+Stack+Application)
+![TaskFlow Logo](frontend/public/TaskFlow_Logo.png)
 
 TaskFlow is a comprehensive, production-ready Task Management Application built on the **MERN** stack (MongoDB, Express, React, Node.js). It provides a secure, intuitive, and responsive environment for users to manage their daily workflows, track priorities, and stay on top of deadlines.
 
 ## 🚀 Live Demo
-- **Frontend (Vercel):** `[Insert Vercel URL Here]`
-- **Backend API (Render):** `[Insert Render URL Here]`
+- **Frontend (Vercel):** `https://task-flow-task-management-applicati.vercel.app/`
+- **Backend API (Render):** `https://taskflow-task-management-application.onrender.com`
 
 ## ⚡ Key Features
 - **Secure Authentication:** Robust user registration and login flows using JWT (JSON Web Tokens) and bcrypt for password hashing.

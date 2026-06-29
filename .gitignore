@@ -6,4 +6,3 @@ frontend/.env
 *.log
 dist/
 .DS_Store
-generate_history.ps1
