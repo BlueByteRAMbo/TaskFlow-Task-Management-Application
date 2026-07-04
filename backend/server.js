@@ -29,6 +29,11 @@ app.use('/api/tasks', require('./routes/taskRoutes'));
 
 console.log("Auth routes mounted");
 
+//Root ROute
+app.get('/', (req, res) => {
+    res.json({ message: "TaskFlow API is running successfully!" });
+});
+
 //HEalth cHeck ROute
 app.get('/api/health',(req,res) => {
     res.json({status:"OK", message:"TaskApp is Running..."});
